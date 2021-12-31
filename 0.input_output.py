@@ -155,3 +155,5 @@ while True:
         for i in range(n):
             sum += array[i]
         print(sum)
+
+        
